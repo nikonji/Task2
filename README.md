@@ -12,9 +12,9 @@ This task was created by Adjust.
 * SSL certificate validate status
 
 # 2) To monitor the metrics we can use ZABBIX monitoring tool:
-* We need to monitor all the important metrics graphs/values in the last hours.*
+* We need to monitor all the important metrics graphs/values in the last hours.
  
-* If the the metric value reach the limit field the trigger will be activated and alert message will be sent to an email*
+* If the the metric value reach the limit field the trigger will be activated and alert message will be sent to an email.
 
     
 # 3)the challenges of monitoring
